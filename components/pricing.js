@@ -1,16 +1,16 @@
 import { CheckIcon } from '@heroicons/react/outline'
 
 const features = [
-  'Proficient in English',
-  'Can tap head and rub belly at the same time',
-  'Able to reach the top shelf',
-  'Excellent at flipping',
-  'Speling bee champion',
-  'Can recite 107 digits of pi',
-  'Can cook 107 flavors of pie',
-  'Decent poker player',
-  'Maybe above average intelligence',
-  'Scored a total of 3213 points on various standardized tests',
+  'Middle School and High School English',
+  'Middle School Mathematics',
+  'Middle School History',
+  'Middle School Social Studies',
+  'Studying Strategies',
+  'Writing Skills',
+  'Organizational Skills',
+  'Reading Comprehension Skills',
+  'Special Education',
+  'Healthy Studying Habits'
 ]
 
 function Pricing() {

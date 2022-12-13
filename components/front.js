@@ -234,7 +234,7 @@ function Landing() {
                     <div className="pt-5 pb-6 px-5">
                       <div className="flex items-center justify-between">
                         <div className='relative h-8 w-auto'>
-                          <Image src='/images/whiteface-peak.jpg' layout='fill' />
+                          <Image src='/images/success.jpg' layout='fill' />
                         </div>
                         <div className="-mr-2">
                           <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
@@ -265,7 +265,7 @@ function Landing() {
           <div className="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div className="relative shadow-xl sm:rounded-2xl sm:overflow-hidden">
               <div className="relative h-full w-full object-cover object-top">
-                <Image src='/images/Beach2019.jpg' layout='fill' objectFit='cover' objectPosition='top' />
+                <Image src='/images/success.jpg' layout='fill' objectFit='cover' objectPosition='top' />
                 <div />
                 <div
                   className="absolute inset-0 bg-gradient-to-r from-purple-800 to-indigo-700"
@@ -275,11 +275,10 @@ function Landing() {
                   <h1 className="text-center text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
                     <span className="block text-white">Personalized Online Tutoring</span>
                     <span className="block text-white text-3xl font-bold">with</span>
-                    <span className="block text-indigo-200">Jack Stanley</span>
+                    <span className="block text-indigo-200">Lindsey Fronk</span>
                   </h1>
                   <p className="mt-6 max-w-lg mx-auto text-center text-xl text-indigo-200 sm:max-w-3xl">
-                    Learn everything from computer science to college essays with my online tutoring program powered
-                  by <a className='hover:underline cursor-pointer' href='https://tutortechy.com' target='_blank'>TutorTechy.com</a>
+                    Learn everything from Social Studies to Organizational Skills and Studying Strategies
                   </p>
                   <div className="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
                     <div className="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-1 sm:gap-5">
@@ -312,8 +311,7 @@ function Landing() {
                         About Me
                     </h2>
                       <p className="mt-4 text-lg text-red">
-                        On top of being a Princeton student majoring in Computer Science, I'm also a student athlete on both Princeton's Cross Country and Track and Field teams.
-                        Being able to balance athletics and academics has taught me valuable skills related to succeeding.
+                        I am highly successful educator with more than 10 years of professional teaching and related experience possessing excellent communication, leadership, analytical, counseling, and technical skills. I'm currently a Special Education teacher within the Penfield Central School District in New York.
                     </p>
                     </div>
                   </div>
@@ -321,18 +319,18 @@ function Landing() {
                     <blockquote>
                       <div>
                         <p className="text-base text-gray-500">
-                          "Jack Stanley is the best!"
+                          "Lindsey is the best!" [Sample Student Review here]
                       </p>
                       </div>
                       <footer className="mt-3">
                         <div className="flex items-center space-x-3">
                           <div className="flex-shrink-0">
                             <div className="relative h-6 w-6 rounded-full"                            >
-                              <Image src='/images/Running Pic.jpg' layout="fill" />
+                              <Image src='/images/Lindsey.jpg' layout="fill" />
                             </div>
                           </div>
                           <div className="text-base font-medium text-gray-700">
-                            CKB, Professional Person
+                            [Student First Name or Parent Name]
                         </div>
                         </div>
                       </footer>
@@ -342,7 +340,7 @@ function Landing() {
                 <div className="mt-12 sm:mt-16 lg:mt-0">
                   <div className="lg:px-0 lg:m-0 lg:relative lg:h-full">
                     <div className="relative lg:absolute h-80 w-80 bottom-0 top-0 m-auto border-4 border-purple-600 rounded-xl">
-                      <Image className='rounded-lg' src='/images/Running Pic.jpg' layout="fill" />
+                      <Image className='rounded-lg' src='/images/Lindsey.jpg' layout="fill" />
                     </div>
                   </div>
                 </div>
@@ -362,7 +360,7 @@ function Landing() {
                         A holistic view on education
                     </h2>
                       <p className="mt-4 text-lg text-white">
-                        I believe in street smarts as well as academic smarts and incorporate both into my lessons.
+                        Since Covid began, schools have struggled to teach students foundational organizational and study skills as they have rushed to play catch up with Common Core curriculum. This is an area that I care deeply about and believe plays a key role in student success.
                     </p>
                     </div>
                   </div>
@@ -370,7 +368,7 @@ function Landing() {
                 <div className="h-80 self-center mt-12 sm:mt-16 lg:mt-0 lg:col-start-1">
                   <div className="pr-4 sm:pr-6 lg:px-0 lg:m-0 lg:relative h-full lg:w-full">
                     <div className="relative w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 h-full lg:max-w-none border-white border-4">
-                      <Image className='rounded-lg' src='/images/whiteface-peak.jpg' layout='fill' objectFit='cover' />
+                      <Image className='rounded-lg' src='/images/online.jpg' layout='fill' objectFit='cover' />
                     </div>
                   </div>
                 </div>

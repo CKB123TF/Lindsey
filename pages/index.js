@@ -8,8 +8,8 @@ export default function Home() {
   return (
     <div >
       <Head>
-        <title>Jack Stanley Tutoring</title>
-        <meta name="description" content="Tutoring by Jack Stanley" />
+        <title>Lindsey Fronk Tutoring</title>
+        <meta name="description" content="Tutoring by Lindsey Fronk" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Landing />
